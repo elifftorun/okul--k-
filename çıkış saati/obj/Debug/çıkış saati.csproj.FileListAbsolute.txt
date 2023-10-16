@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\çıkış saati\çıkış saati\bin\Debug\çıkış saati.exe.config
+C:\Users\User\source\repos\çıkış saati\çıkış saati\bin\Debug\çıkış saati.exe
+C:\Users\User\source\repos\çıkış saati\çıkış saati\bin\Debug\çıkış saati.pdb
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış saati.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış saati.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış_saati.Form1.resources
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış_saati.Properties.Resources.resources
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış saati.csproj.GenerateResource.cache
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış saati.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış saati.exe
+C:\Users\User\source\repos\çıkış saati\çıkış saati\obj\Debug\çıkış saati.pdb
